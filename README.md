@@ -1,10 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+This react-nft app is a website were the user can see several NFT's. The user can select an NFT and it will appear in the main section of the website. Additioanlly, every NFT has an ID number, price (in ETH) and a name. In this project, I had to add different assets (such as the NFT image, ETH image, Instagram & Twitter logo,), a search bar, a horizontal scrollable feature and more. Moreover, I used the website thirdweb in order to have access to the NFTs that I made up and then I connected a wallet from Metamask.
 
 ### `npm start`
 
